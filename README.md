@@ -9,8 +9,8 @@
 노력으로 승부하는 초보 백엔드 개발자입니다!
 <br/>
 
-정보통신학과 졸업 <br/>
-(현)구름톤 트레이닝 풀스택 2기 교육생 <br/>
+영남대 정보통신학과 졸업 <br/>
+구름톤 트레이닝 풀스택 2기 수료생 <br/>
 <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yui5227)](https://solved.ac/yui5227)
