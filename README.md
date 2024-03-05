@@ -16,6 +16,15 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yui5227)](https://solved.ac/yui5227)
 
 
+**◇ 프로젝트 바로가기**
+
+SLAMTALK - 농구인의 위한 지도기반 커뮤니케이션 어플! <br>
+[GITHUB 바로가기](https://github.com/SlamTalk/slam-talk-backend) <br>
+
+DJIDE - chatGPT와 함께하는 웹기반 페어 프로그래밍 IDE <br>
+[GITHUB 바로가기](https://github.com/The-Great-Sign)   <br>
+<br>
+
 **◇ Skill**
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
