@@ -13,10 +13,14 @@
 구름톤 트레이닝 풀스택 2기 수료생 <br/>
 <br/>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yui5227)](https://solved.ac/yui5227)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yui5227)](https://solved.ac/yui5227)<br>
 
+**◇ 개인 프로젝트 바로가기**
 
-**◇ 프로젝트 바로가기**
+정산어플, 게시판 구현 등 개인프로젝트입니다!<br>
+[GITHUB 바로가기](https://github.com/leebongseung/goormtoon-backend-assignment?tab=readme-ov-file)<br>
+
+**◇ 팀 프로젝트 바로가기**
 
 SLAMTALK - 농구인의 위한 지도기반 커뮤니케이션 어플! <br>
 [GITHUB 바로가기](https://github.com/SlamTalk/slam-talk-backend) <br>
