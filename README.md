@@ -1,67 +1,34 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LeeBongSeung&fontSize=60)
+# 이봉승
 
-<div align=center>
-  
-**◆ Introduction**
+Backend Engineer
 
-안녕하세요! <br/> 백엔드 개발자 이봉승입니다!<br/>
-<br/>
+Java와 Spring 기반의 업무 시스템을 개발합니다.
+인증·인가, 외부 시스템 연계, 운영 환경에서의 안정적인 변경에 관심이 있습니다.
 
-2017.02 ~ 2019.02 : 수성대 전자정보과 졸업 <br/>
-2019.03 ~ 2023.08 : 영남대 정보통신학과 졸업 <br/>
-2023.08 ~ 2024.02 : 구름톤 트레이닝 풀스택 2기 수료생 <br/>
-<br/>
+## What I work on
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yui5227)](https://solved.ac/yui5227)<br>
+- 업무 도메인을 API와 데이터 모델로 구조화하는 백엔드 개발
+- 로그인, 권한, 접근 제어처럼 보안과 사용자 경험이 만나는 영역
+- 외부 시스템 연계와 데이터 정합성 문제 해결
+- 운영 중인 서비스의 변경 영향 분석과 재발 방지
 
-**◇ 개인 프로젝트 바로가기**
+## How I work
 
-정산어플, 게시판 구현 등 개인프로젝트입니다!<br>
-[GITHUB 바로가기](https://github.com/leebongseung/goormtoon-backend-assignment?tab=readme-ov-file)<br>
+- 기능을 구현하기 전에 기존 흐름과 변경 영향을 먼저 확인합니다.
+- 권한, 예외 처리, 데이터 일관성, 운영 관점의 검증을 함께 고려합니다.
+- 재현 가능한 문서와 작은 단위의 변경을 선호합니다.
 
-**◇ 팀 프로젝트 바로가기**
+## Interests
 
-SLAMTALK - 농구인의 위한 지도기반 커뮤니케이션 어플! <br>
-[GITHUB 바로가기](https://github.com/SlamTalk/slam-talk-backend) <br>
+- Java / Spring 기반의 백엔드 설계
+- 인증·인가와 접근 제어
+- 운영 자동화와 안정적인 배포·검증 흐름
 
-DJIDE - chatGPT와 함께하는 웹기반 페어 프로그래밍 IDE <br>
-[GITHUB 바로가기](https://github.com/The-Great-Sign)   <br>
-<br>
+## Writing
 
-**◇ Skill**
+- [Tech Blog](https://leebongseung.github.io)
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<br>
+## Background
 
-
-**◇ 해본 것**
-
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/letsencrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white">
-<br>
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
-
-
-<!--
-**leebongseung/leebongseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 영남대학교 정보통신학과
+- 구름톤 트레이닝 풀스택 2기
