@@ -25,16 +25,6 @@
 
 <br />
 
-## Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-<br />
-
 ## How I work
 
 > **Understand the flow first. Change it safely. Verify it in operation.**
