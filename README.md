@@ -1,34 +1,50 @@
-# 이봉승
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Lee%20Bong%20Seung&fontSize=52&fontColor=FFFFFF&animation=fadeIn" alt="Lee Bong Seung" />
+</p>
 
-Backend Engineer
+<div align="center">
+  <h3>Backend Engineer</h3>
+  <p>Java와 Spring으로, 복잡한 업무 흐름을 안정적인 시스템으로 만듭니다.</p>
+  <p>
+    <a href="https://leebongseung.github.io">
+      <img src="https://img.shields.io/badge/Tech%20Blog-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Tech Blog" />
+    </a>
+  </p>
+</div>
 
-Java와 Spring 기반의 업무 시스템을 개발합니다.
-인증·인가, 외부 시스템 연계, 운영 환경에서의 안정적인 변경에 관심이 있습니다.
+<br />
 
-## What I work on
+## Focus
 
-- 업무 도메인을 API와 데이터 모델로 구조화하는 백엔드 개발
-- 로그인, 권한, 접근 제어처럼 보안과 사용자 경험이 만나는 영역
-- 외부 시스템 연계와 데이터 정합성 문제 해결
-- 운영 중인 서비스의 변경 영향 분석과 재발 방지
+| Area | What I care about |
+| --- | --- |
+| **Backend** | 업무 도메인을 API와 데이터 모델로 구조화합니다. |
+| **Security** | 로그인·권한·접근 제어에서 보안과 사용자 경험의 균형을 고민합니다. |
+| **Integration** | 외부 시스템 연계와 데이터 정합성 문제를 다룹니다. |
+| **Operations** | 변경 영향 분석, 검증, 재발 방지를 통해 안정적인 운영을 만듭니다. |
+
+<br />
+
+## Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+<br />
 
 ## How I work
 
-- 기능을 구현하기 전에 기존 흐름과 변경 영향을 먼저 확인합니다.
+> **Understand the flow first. Change it safely. Verify it in operation.**
+
+- 구현 전에 기존 흐름과 변경 영향을 먼저 확인합니다.
 - 권한, 예외 처리, 데이터 일관성, 운영 관점의 검증을 함께 고려합니다.
 - 재현 가능한 문서와 작은 단위의 변경을 선호합니다.
 
-## Interests
+<br />
 
-- Java / Spring 기반의 백엔드 설계
-- 인증·인가와 접근 제어
-- 운영 자동화와 안정적인 배포·검증 흐름
-
-## Writing
-
-- [Tech Blog](https://leebongseung.github.io)
-
-## Background
-
-- 영남대학교 정보통신학과
-- 구름톤 트레이닝 풀스택 2기
+<div align="center">
+  <sub>영남대학교 정보통신학과 · 구름톤 트레이닝 풀스택 2기</sub>
+</div>
